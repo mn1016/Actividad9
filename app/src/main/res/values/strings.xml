@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DMoviles</string>
+    <string name="temp_text">%1$s ℃</string>
+</resources>
